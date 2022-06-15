@@ -13,7 +13,7 @@ export function SideBar() {
         <Avatar hasBorder src="https://github.com/codewithmiguel.png" />
 
         <strong>Pedro Miguel</strong>
-        <span>Frontend Engineer</span>
+        <span>Desenvolvedor Frontend</span>
       </div>
       <footer>
         <a>
